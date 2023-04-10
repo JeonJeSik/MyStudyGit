@@ -33,9 +33,15 @@
     <ClCompile Include="MyStudy.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Backjun1007.cpp">
+      <Filter>소스 파일\Study\Backjun</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Backjun1012.h">
+      <Filter>헤더 파일\Study\Backjun</Filter>
+    </ClInclude>
+    <ClInclude Include="Backjun1007.h">
       <Filter>헤더 파일\Study\Backjun</Filter>
     </ClInclude>
   </ItemGroup>
