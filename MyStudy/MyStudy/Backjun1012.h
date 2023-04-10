@@ -1,4 +1,5 @@
 #pragma once
+#include <iostream>
 class Backjun1012
 {
 public:
@@ -7,5 +8,8 @@ public:
 
 public:
 	void Start();
+
+private:
+	int m_iCount = 0;
 };
 

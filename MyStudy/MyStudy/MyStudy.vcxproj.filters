@@ -19,18 +19,24 @@
     <Filter Include="헤더 파일\Study">
       <UniqueIdentifier>{d7f21f66-f06f-4315-ba89-e958350f6d74}</UniqueIdentifier>
     </Filter>
+    <Filter Include="헤더 파일\Study\Backjun">
+      <UniqueIdentifier>{ff392e4d-4515-4d33-b929-3706d4053725}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Study\Backjun">
+      <UniqueIdentifier>{c47eeff7-19ae-4724-9114-3c3c567e4468}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Backjun1012.cpp">
+      <Filter>소스 파일\Study\Backjun</Filter>
+    </ClCompile>
     <ClCompile Include="MyStudy.cpp">
       <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Backjun1012.cpp">
-      <Filter>소스 파일\Study</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Backjun1012.h">
-      <Filter>헤더 파일\Study</Filter>
+      <Filter>헤더 파일\Study\Backjun</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
