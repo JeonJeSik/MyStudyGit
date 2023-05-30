@@ -1,4 +1,6 @@
 #pragma once
+#include <iostream>
+using namespace std;
 class Backjun1007
 {
 public:

@@ -2,11 +2,11 @@
 //
 
 #include <iostream>
-#include "Backjun1012.h"
-#include "Backjun1007.h"
-
 using namespace std;
 
+#include "Backjun1012.h"
+#include "Backjun1007.h"
+#include "Backjun1085.h"
 
 int main()
 {
@@ -15,6 +15,9 @@ int main()
 
 	Backjun1007 Backjun1007;
 	Backjun1007.Start();
+
+	Backjun1085 Backjun1085;
+	Backjun1085.Start();
 
 	return 0;
 }
