@@ -9,6 +9,7 @@ using namespace std;
 #include "Backjun1085.h"
 #include "Backjun1100.h"
 #include "CBackjun1110.h"
+#include "CBackjun1271.h"
 
 int main()
 {
@@ -18,7 +19,6 @@ int main()
 	Backjun1007 Backjun1007;
 	Backjun1007.Start();
 
-
 	Backjun1085 Backjun1085;
 	//Backjun1085.Start();
 
@@ -26,7 +26,10 @@ int main()
 	//Backjun1100.Start();
 
 	CBackjun1110 Backjun1110;
-	Backjun1110.Start();
+	//Backjun1110.Start();
+
+	CBackjun1271 CBackjun1271;
+	CBackjun1271.Start();
 
 	return 0;
 }

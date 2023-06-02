@@ -48,6 +48,9 @@
     <ClCompile Include="CBackjun1110.cpp">
       <Filter>소스 파일\Study\Backjun</Filter>
     </ClCompile>
+    <ClCompile Include="CBackjun1271.cpp">
+      <Filter>소스 파일\Study\Backjun</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Backjun1012.h">
@@ -63,6 +66,9 @@
       <Filter>헤더 파일\Study\Backjun</Filter>
     </ClInclude>
     <ClInclude Include="CBackjun1110.h">
+      <Filter>헤더 파일\Study\Backjun</Filter>
+    </ClInclude>
+    <ClInclude Include="CBackjun1271.h">
       <Filter>헤더 파일\Study\Backjun</Filter>
     </ClInclude>
   </ItemGroup>
