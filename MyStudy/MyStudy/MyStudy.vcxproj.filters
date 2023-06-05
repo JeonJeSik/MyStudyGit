@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Study\Backjun">
       <UniqueIdentifier>{c47eeff7-19ae-4724-9114-3c3c567e4468}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Study\요점정리">
+      <UniqueIdentifier>{9685c570-a4de-4506-952f-dec29ee8fc8f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Backjun1012.cpp">
@@ -39,9 +42,6 @@
     <ClCompile Include="Backjun1085.cpp">
       <Filter>소스 파일\Study\Backjun</Filter>
     </ClCompile>
-    <ClCompile Include="백준입력용.cpp">
-      <Filter>소스 파일\Study</Filter>
-    </ClCompile>
     <ClCompile Include="Backjun1100.cpp">
       <Filter>소스 파일\Study\Backjun</Filter>
     </ClCompile>
@@ -49,6 +49,9 @@
       <Filter>소스 파일\Study\Backjun</Filter>
     </ClCompile>
     <ClCompile Include="CBackjun1271.cpp">
+      <Filter>소스 파일\Study\Backjun</Filter>
+    </ClCompile>
+    <ClCompile Include="백준입력용.cpp">
       <Filter>소스 파일\Study\Backjun</Filter>
     </ClCompile>
   </ItemGroup>
@@ -71,5 +74,10 @@
     <ClInclude Include="CBackjun1271.h">
       <Filter>헤더 파일\Study\Backjun</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Effective C++.txt">
+      <Filter>소스 파일\Study\요점정리</Filter>
+    </Text>
   </ItemGroup>
 </Project>
