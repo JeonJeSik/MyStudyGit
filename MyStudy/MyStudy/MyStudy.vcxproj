@@ -132,6 +132,7 @@
     <ClCompile Include="Backjun1085.cpp" />
     <ClCompile Include="Backjun1100.cpp" />
     <ClCompile Include="CBackjun1110.cpp" />
+    <ClCompile Include="CBackjun1264.cpp" />
     <ClCompile Include="CBackjun1271.cpp" />
     <ClCompile Include="MyStudy.cpp" />
     <ClCompile Include="백준입력용.cpp">
@@ -144,6 +145,7 @@
     <ClInclude Include="Backjun1085.h" />
     <ClInclude Include="Backjun1100.h" />
     <ClInclude Include="CBackjun1110.h" />
+    <ClInclude Include="CBackjun1264.h" />
     <ClInclude Include="CBackjun1271.h" />
   </ItemGroup>
   <ItemGroup>

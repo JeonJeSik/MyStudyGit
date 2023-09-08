@@ -9,27 +9,31 @@ using namespace std;
 #include "Backjun1085.h"
 #include "Backjun1100.h"
 #include "CBackjun1110.h"
+#include "CBackjun1264.h"
 #include "CBackjun1271.h"
 
 int main()
 {
-	Backjun1012 Backjun1012;
-	Backjun1012.Start();
+	//Backjun1012 Backjun1012;
+	//Backjun1012.Start();
 
-	Backjun1007 Backjun1007;
-	Backjun1007.Start();
+	//Backjun1007 Backjun1007;
+	//Backjun1007.Start();
 
-	Backjun1085 Backjun1085;
-	//Backjun1085.Start();
+	//Backjun1085 Backjun1085;
+	////Backjun1085.Start();
 
-	Backjun1100 Backjun1100;
-	//Backjun1100.Start();
+	//Backjun1100 Backjun1100;
+	////Backjun1100.Start();
 
-	CBackjun1110 Backjun1110;
-	//Backjun1110.Start();
+	//CBackjun1110 Backjun1110;
+	////Backjun1110.Start();
 
-	CBackjun1271 CBackjun1271;
-	CBackjun1271.Start();
+	CBackjun1264 CBackjun1264;
+	CBackjun1264.Start();
 
+	//CBackjun1271 CBackjun1271;
+	//CBackjun1271.Start();
+	
 	return 0;
 }

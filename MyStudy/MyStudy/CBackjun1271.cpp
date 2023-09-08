@@ -10,9 +10,9 @@ CBackjun1271::~CBackjun1271()
 
 void CBackjun1271::Start()
 {
-	string strMoney, strPerson;
+	string strN, strM;
 
-	cin >> strMoney >> strPerson;
+	cin >> strN >> strM;
 
 
 }
